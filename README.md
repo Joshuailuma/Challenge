@@ -3,5 +3,4 @@ Weekly challenge
 
 Week1
 
-https://github.com/Joshuailuma/Challenge/blob/main/Week%201.png
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
