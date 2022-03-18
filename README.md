@@ -1,6 +1,5 @@
 # Challenge
-Weekly challenge
 
-Week1
+##Week1
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Joshuailuma/Challenge/blob/main/Week%201.png?raw=true)
